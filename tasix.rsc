@@ -80,7 +80,6 @@ add address=91.240.128.0/24 list=tasix
 add address=92.38.5.0/24 list=tasix
 add address=92.38.16.0/22 list=tasix
 add address=92.38.24.0/22 list=tasix
-add address=92.38.35.0/24 list=tasix
 add address=92.38.39.0/24 list=tasix
 add address=92.38.50.0/23 list=tasix
 add address=92.38.52.0/22 list=tasix
@@ -90,9 +89,8 @@ add address=92.253.196.0/22 list=tasix
 add address=92.253.202.0/24 list=tasix
 add address=93.157.58.0/24 list=tasix
 add address=93.170.6.0/24 list=tasix
-add address=93.170.10.0/23 list=tasix
+add address=93.170.10.0/24 list=tasix
 add address=93.170.16.0/21 list=tasix
-add address=93.170.24.0/24 list=tasix
 add address=93.170.160.0/21 list=tasix
 add address=93.170.168.0/23 list=tasix
 add address=93.170.208.0/22 list=tasix
@@ -125,6 +123,7 @@ add address=95.214.208.0/22 list=tasix
 add address=109.207.240.0/20 list=tasix
 add address=109.248.220.0/23 list=tasix
 add address=118.88.16.0/21 list=tasix
+add address=119.12.104.0/21 list=tasix
 add address=139.28.44.0/22 list=tasix
 add address=146.120.16.0/22 list=tasix
 add address=146.120.232.0/23 list=tasix
