@@ -117,7 +117,6 @@ add address=95.47.120.0/23 list=tasix
 add address=95.47.127.0/24 list=tasix
 add address=95.47.153.0/24 list=tasix
 add address=95.47.237.0/24 list=tasix
-add address=95.47.238.0/23 list=tasix
 add address=95.130.227.0/24 list=tasix
 add address=95.214.208.0/22 list=tasix
 add address=109.207.240.0/20 list=tasix
