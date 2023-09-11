@@ -104,7 +104,7 @@ add address=93.171.238.0/24 list=tasix
 add address=94.141.64.0/19 list=tasix
 add address=94.154.10.0/24 list=tasix
 add address=94.158.48.0/20 list=tasix
-add address=94.230.224.0/20 list=tasix
+add address=94.230.224.0/21 list=tasix
 add address=94.232.24.0/22 list=tasix
 add address=95.46.47.0/24 list=tasix
 add address=95.46.64.0/21 list=tasix
