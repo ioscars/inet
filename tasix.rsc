@@ -158,7 +158,8 @@ add address=185.196.216.0/22 list=tasix
 add address=185.203.236.0/22 list=tasix
 add address=185.208.178.0/23 list=tasix
 add address=185.211.128.0/22 list=tasix
-add address=185.213.228.0/22 list=tasix
+add address=185.213.229.0/24 list=tasix
+add address=185.213.230.0/24 list=tasix
 add address=185.215.5.0/24 list=tasix
 add address=185.217.131.0/24 list=tasix
 add address=185.224.219.0/24 list=tasix
@@ -195,6 +196,6 @@ add address=213.230.64.0/18 list=tasix
 add address=213.232.225.0/24 list=tasix
 add address=213.232.245.0/24 list=tasix
 add address=217.12.80.0/21 list=tasix
-add address=217.12.88.0/24 list=tasix
+add address=217.12.88.0/23 list=tasix
 add address=217.29.112.0/20 list=tasix
 add address=217.30.160.0/20 list=tasix
